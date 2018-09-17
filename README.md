@@ -8,7 +8,7 @@
 3. [Running](#running)
 4. [Bugtrack](#buqtrack)
 5. [Annotations](#annotations)
-6. [Copyrights](#theducks)
+6. [Copyrights](#copyrights)
 
 ### Description
 This script was created for migration of GitLab projects to Bitbucket.
@@ -31,17 +31,17 @@ $ while read config; do ./gitlab2bitucket.sh $config; done < list
 [...stuff on screen going on...]
 ```
 
-#### Buqtrack
+### Buqtrack
 * no bugs so far, how cool is that?
 
-##### Annotations
+### Annotations
 
 ```
 that was done for some project, thanks for that.
 thanks for the music as well.
 ```
 
-##### Copyrights
+### Copyrights
 
 ###### copyright 2018 nicon@bash.org.pl
 ###### each change/fix needs to have separated branch and (may) be merged after review.
